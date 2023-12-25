@@ -1,6 +1,7 @@
 testing line update
 untesting line
 commit test
+line new new
 456
 
 789..
